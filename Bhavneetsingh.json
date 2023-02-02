@@ -1,0 +1,31 @@
+{
+	"name": "Bhavneet Singh",
+	"displayStatsPublic": true,
+	"type": "personal",
+	"bio": "Web developer ,ML guy . To travel is to live",
+	"links": [{
+			"name": "Follow me on Twitter",
+			"url": "https://twitter.com/Bhavnee66254975",
+			"icon": "FaTwitter"
+		},
+		{
+			"name": "Follow me on Linkdin",
+			"url": "https://www.linkedin.com/in/bhavneet-singh-8b1751222/",
+			"icon": "FaLinkdin"
+		},
+		{
+			"name": "Follow me on Instagram",
+			"url": "https://instagram.com/its.bhavneeet?igshid=NTA5ZTk1NTc=",
+			"icon": "FaInstagram"
+		},
+		{
+			"name": "Follow me on Github",
+			"url": "https://github.com/Bhavneet-singh",
+			"icon": "FaGithub"
+		}
+
+
+
+
+	]
+}
